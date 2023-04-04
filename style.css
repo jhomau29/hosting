@@ -232,7 +232,7 @@ main{
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url("./trending-down\ 1.svg");
+    background-image: url("./trending-down1.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -242,7 +242,7 @@ main{
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url("./trending-up\ 1.svg");
+    background-image: url("./trending-up 1.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
