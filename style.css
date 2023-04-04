@@ -128,7 +128,7 @@ main{
     height: 200px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url("./assets/Bitcoin.svg");
+    background-image: url("./Bitcoin.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -232,7 +232,7 @@ main{
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url("./icons/trending-down\ 1.svg");
+    background-image: url("./trending-down\ 1.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -242,7 +242,7 @@ main{
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url("./icons/trending-up\ 1.svg");
+    background-image: url("./trending-up\ 1.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -292,7 +292,7 @@ main{
     height: 25px;
     top: -10px;
     left: calc(50% - 20px);
-    background-image: url("./icons/batata.svg");
+    background-image: url("./batata.svg");
     
 }
 .product-detail--title{
@@ -340,16 +340,16 @@ main{
     background-repeat: no-repeat;
 }
 .product-detail--card .clock{
-    background-image: url("./icons/clock\ 1.svg");
+    background-image: url("./clock\ 1.svg");
 }
 .product-detail--card .eye{
-    background-image: url("./icons/eye\ 1.svg");
+    background-image: url("./eye\ 1.svg");
 }
 .product-detail--card .dollar{
-    background-image: url("./icons/dollar-sign\ 1.svg");
+    background-image: url("./dollar-sign\ 1.svg");
 }
 .product-detail--card .check{
-    background-image: url("./icons/check-circle\ 1.svg");
+    background-image: url("./check-circle\ 1.svg");
 }
 .product--card-title{
     margin-bottom: 15px;
@@ -368,7 +368,7 @@ main{
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url("./imgs/bitcoinbaby\ 1.png");
+    background-image: url("./bitcoinbaby\ 1.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
